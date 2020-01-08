@@ -1,0 +1,19 @@
+ Error # 1
+___
+Nombre:equipo RPA
+
+Ambiente: UIpath - Chrome - Windows 7
+
+Descripción: La falla constante que encontramos con *PDF* es que al hacer *OCR* de los archivos el porcentaje de reconocimiento
+es muy bajo, entonces la extracción de esa información no es confiable.
+    
+Solución: No se encontró solución.
+
+Palabras clave:OCR, PDF
+
+Fecha:26/08/2019 11:47
+___
+
+Comentarios: Se encuentra como alternativa la plataforma ABBYY, quien ofrece la extracción de informacion de documentos PDF, 
+con información estructurada y no estructurada.
+___
