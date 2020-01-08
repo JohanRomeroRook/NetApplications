@@ -1,0 +1,1 @@
+ El manejo de los selectores en UIpath, es complejo ya que si no utilizamos los comodines establecidos dentro de la herramienta.
