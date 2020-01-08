@@ -1,1 +1,7 @@
-
+Para obtener una licencia enterprise de Automation Anywhere, lo primero que debemos hacer es: 
+    1.acceder al partner portal de automation anywhere
+    2.loguearnos con usuario y contraseña del partner 3.seleccionamos products downloads
+    4.selecionar la licencia que vamos a descargar
+    5.En caso de ya haber utilizado la licencia y hubiesen finalizado los 30 días selecionar:
+        - more
+        - Get evaluation licence key
