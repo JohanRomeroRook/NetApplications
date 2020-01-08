@@ -5,3 +5,6 @@ Para obtener una licencia enterprise de Automation Anywhere, lo primero que debe
     5.En caso de ya haber utilizado la licencia y hubiesen finalizado los 30 días selecionar:
         - more
         - Get evaluation licence key
+        
+Tener en cuenta!!!
+prueba.png
