@@ -1,0 +1,22 @@
+Crear y compartir repositorio de source tree
+___
+1. Iniciar sesión en bitbucket
+2. Seleccionar simbolo + create
+3. Seleccionar pestaña repository
+4. Colocarle nombre al repositorio
+5. Seleccionar boton de create repository
+6. Compartirlo con las personas que lo pueden editar 
+7. Seleccionar pestaña source
+8. Copiar linea completa desde https: _____
+9. Abrir app source tree
+10. Seleccionar pestaña File
+11. Seleccionar opcion Clone/new
+12. Pegar en el primer campo de texto la URL copiada previamente
+13. Presionar la tecla TAB y esperar que el boton Clone se active
+14. Presionar clone
+15. Crear un branch para el ususario local
+16. Doble clic en master
+17. Clic derecho en el branch creado previamnete
+18. Seleccionar opcion merge master into currente branch
+___
+
